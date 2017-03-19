@@ -1,0 +1,8 @@
+Starting a Gradle Daemon (subsequent builds will be faster)
+The Jetty plugin has been deprecated and is scheduled to be removed in Gradle 4.0. Consider using the Gretty (https://github.com/akhikhl/gretty) plugin instead.
+	at build_bui0juquprn3ovj6cof5qxzjr.run(C:\gradle\Projects\Combat\build.gradle:2)
+:compileJava UP-TO-DATE
+:processResources UP-TO-DATE
+:classes UP-TO-DATE
+:war
+:jettyRunWarTerminer le programme de commandes (O/N)ÿ? 
